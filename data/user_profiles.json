@@ -1,1 +1,92 @@
-
+[
+    {
+        "name": "Alice Johnson",
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "NLP",
+            "Data Analysis"
+        ]
+    },
+    {
+        "name": "Bob Smith",
+        "skills": [
+            "JavaScript",
+            "React",
+            "Node.js",
+            "Frontend Development"
+        ]
+    },
+    {
+        "name": "Charlie Evans",
+        "skills": [
+            "Python",
+            "Flask",
+            "APIs",
+            "Docker"
+        ]
+    },
+    {
+        "name": "Diana Roberts",
+        "skills": [
+            "C++",
+            "Embedded Systems",
+            "IoT",
+            "Robotics"
+        ]
+    },
+    {
+        "name": "Ethan Clark",
+        "skills": [
+            "Python",
+            "Deep Learning",
+            "TensorFlow",
+            "Data Science"
+        ]
+    },
+    {
+        "name": "Fiona Taylor",
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "Microservices",
+            "System Design"
+        ]
+    },
+    {
+        "name": "George Lee",
+        "skills": [
+            "Python",
+            "FastAPI",
+            "DevOps",
+            "Cloud Computing"
+        ]
+    },
+    {
+        "name": "Hannah Brown",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "UI/UX Design"
+        ]
+    },
+    {
+        "name": "Ivan King",
+        "skills": [
+            "Go",
+            "Kubernetes",
+            "Cloud Infrastructure",
+            "CI/CD"
+        ]
+    },
+    {
+        "name": "Julia Martinez",
+        "skills": [
+            "R",
+            "Statistics",
+            "Data Visualization",
+            "Pandas"
+        ]
+    }
+]
